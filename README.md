@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=407BFE&center=true&vCenter=true&width=600&height=100&lines=Hello+Every+One%2C;Im+Omar+Jbair%2C;Front-End+Devloper%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=407BFE&center=true&vCenter=true&width=600&height=100&lines=Hello+Every+One%2C;Im+Omar+Jbair%2C;Front-End+Devloper%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 </p>
 <h1>About me</h1>
 
@@ -11,10 +11,10 @@
 - All of my projects are available at [Here](https://github.com/Omarjbair?tab=repositories)  
 - How to reach **omar.jabir.o@gmail.com**
 
-<br><br>
 <br>
 <br>
-
+<br>
+<br>
 
 <h1> Skills</h1>
 <br>
@@ -82,7 +82,7 @@
 
 <br>
 <br>
-
+<br>
 
 <h1> Github Stats </h1>
 <br>
@@ -93,11 +93,11 @@
 <a href="https://github.com/Omarjbair/">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarjbair&theme=dark" alt="omarjbair" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarjbair&show_icons=true&theme=dark&locale=en" alt="omarjbair" /></p>
-	
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjbair&show_icons=true&theme=dark&locale=en&layout=compact" alt="omarjbair" /></p>
-
+<br>	
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjbair&show_icons=true&theme=dark&locale=en&layout=compact" alt="omarjbair" /></p>
+<br>
 </a>
 </div>
 
