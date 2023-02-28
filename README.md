@@ -95,11 +95,12 @@
 <div align="center">
 
 <a href="https://github.com/Omarjbair/">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjbair&show_icons=true&locale=en&layout=compact" alt="omarjbair" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarjbair&show_icons=true&locale=en" alt="omarjbair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarjbair&" alt="omarjbair" /></p>
+	
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjbair&show_icons=true&locale=en&layout=compact" alt="omarjbair" /></p>
 
 </a>
 </div>
