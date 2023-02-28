@@ -12,6 +12,7 @@
 - How to reach **omar.jabir.o@gmail.com**
 
 <br><br>
+-----
 
 <h1> Skills</h1>
 <br>
