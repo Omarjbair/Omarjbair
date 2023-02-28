@@ -13,6 +13,7 @@
 
 <br><br>
 -----
+<br>
 
 <h1> Skills</h1>
 <br>
