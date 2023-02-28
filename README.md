@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=407BFE&center=true&vCenter=true&width=600&height=100&lines=Hello+Every+One%2C;Im+Omar+Jbair%2C;Front-End+Devloper%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 </p>
-<h2>About me</h2>
+<h1>About me</h1>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><h1> Skills</h1>
 <br>
 
 <p align="center">
@@ -94,9 +94,12 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/Omarjbair/">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjbair&show_icons=true&locale=en&layout=compact" alt="omarjbair" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarjbair&show_icons=true&locale=en" alt="omarjbair" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarjbair&" alt="omarjbair" /></p>
 
 </a>
 </div>
@@ -122,21 +125,21 @@
 </li>
 <br>
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://www.instagram.com/omarjbair/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="https://www.linkedin.com/in/omar-jbair-5bba64248/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="https://codeforces.com/profile/Omar_jbair" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -146,7 +149,5 @@
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 
 
