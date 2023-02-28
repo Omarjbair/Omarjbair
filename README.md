@@ -15,9 +15,6 @@
 <br>
 <br>
 
--------
-
-<br>
 
 <h1> Skills</h1>
 <br>
@@ -86,10 +83,6 @@
 <br>
 <br>
 
------
-
-<br>
-
 
 <h1> Github Stats </h1>
 <br>
@@ -112,9 +105,6 @@
 <br>
 <br>
 
------
-
-<br>
 
 ## <h1> Let's Connect..!</h1>
 <br>
