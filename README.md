@@ -91,7 +91,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<h1> Github Stats </h1>
 <br>
 <br>
 
@@ -117,7 +117,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <h1> Let's Connect..!</h1>
 <br>
 <div align='left'>
 
