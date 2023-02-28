@@ -1,7 +1,6 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hello+Every+One%2C;Im+Omar+Jbair%2C;Front-End+Devloper%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=407BFE&center=true&vCenter=true&width=600&height=100&lines=Hello+Every+One%2C;Im+Omar+Jbair%2C;Front-End+Devloper%2C;Computer+Science+Student%2C;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 </p>
-<br>
 <h2>About me</h2>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
